@@ -32,15 +32,7 @@
   
 ### 5. Webserver:
   - Apache Tomcat
-  
 
-## Issues that proposed system overcomes-
-   - It is digital system rather than paper based.
-   - Inappropriate data keeping (receptionist used register for patients entry and doctor used prescription pad).
-   - Time wastage in data storage and retrieval.
-   - Human error possibility in maintainance.
-   - Patient's were unable to understand prescriptions due to handwriting issue.
-   - Durability issues (data may lost if prescriptions goes missing).
 
 
 ## Features-
